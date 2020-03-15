@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=morsee
+comment1.params=x
+comment1.target=java.lang.String\ morseEncode(char)
+comment2.params=s
+comment2.target=void\ morseCode(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
